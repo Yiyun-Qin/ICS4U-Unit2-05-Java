@@ -7,11 +7,11 @@
  *</p>
  */
 public class Vehicle {
-  private static String licensePlate;
+  public static String licensePlate;
   public static String color;
-  private static int doorNumber;
+  public static int doorNumber;
   public static int speed = 0;
-  private static int maximumSpeed;
+  public static int maximumSpeed;
 
   // constructor
   /**
